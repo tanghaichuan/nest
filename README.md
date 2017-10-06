@@ -1,4 +1,4 @@
 按照自己的理解对nest插件重新进行封装
-## star
+## start
  `npm install`
- ` npm star`
+ ` npm start`
